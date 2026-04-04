@@ -1,5 +1,6 @@
 .DS_Store
 .venv/
 .claude/
+.qwen/
 *.pyc
 __pycache__/
